@@ -44,7 +44,7 @@ h3{
     height: auto;
     padding-top:17px;
     margin-left: 22px;
-    margin-right: 18px;
+    margin-right: 21px;
 }
 img{
     width:100%;
@@ -63,7 +63,7 @@ img{
 footer{
     margin-top:50px;
 }
-@media (max-width:1510px){
+@media (max-width:1485px){
     .main{
      display: block;
      margin-top: 50px;
